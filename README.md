@@ -1,2 +1,2 @@
 # GenE
-Gen Exchange
+Цифровые личности
